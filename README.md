@@ -3,8 +3,8 @@ Innovative tech mind with 1+ years of experience working as a full-stack Web Dev
 - 🔭 I’m currently working on React and Django
 - 🌱 I’m currently learning Django
 - 💬 Ask me about #python #javascript #React jS #Redux js #Next js #Django 
-- 📫 Language : #Javascript #python #Typescript
-- 🤔 Database  MySQL, PostgreSQL
+- 📫 Language : #Javascript #python #C #C++
+- 🤔 Database  MySQL, Firebase
 - 🤔 API: Django REST Framework
 - 😄 Pronouns: ...Kazi Atik Foysal
 - ⚡ Fun fact: ...Can read book and chill with friend
