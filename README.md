@@ -1,37 +1,98 @@
-Innovative tech mind with 3+ years of experience working as a full-stack Web Developer. Capable of working with a variety of technology and web applications, and managing databases. Passionate about building world-class web applications. Valuable team member who has experience diagnosing problems and developing solutions. A talented leader with unique ideas and a history of successful contributions in the field.
+<h1 align="center">Hi 👋, I'm Kazi Atik Foysal</h1>
+<h3 align="center">Frontend / Full-Stack Web Developer | React • Next.js • Django</h3>
 
-- 🔭 I’m currently working on React and Django
-- 🌱 I’m currently learning Django
-- 💬 Ask me about #python #javascript #React jS #Redux js #Next js #Django 
-- 📫 Language : #Javascript #python #C #C++
-- 🤔 Database  MySQL, Firebase
-- 🤔 API: Django REST Framework
-- 😄 Pronouns: ...Kazi Atik Foysal
-- ⚡ Fun fact: I can read books and chill with friends
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atik1000&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
- <h2><a id="user-content--my-stack-" class="anchor" aria-hidden="true" href="#-my-stack-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>{...} My Stack <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"><img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"><img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji></h2>
+---
 
-<div class="highlight highlight-source-js">
-   <pre><span class="pl-kos">{</span>
-  <span class="pl-c1">Languages</span>: <span class="pl-kos">[</span><span class="pl-s">'JavaScript'</span><span class="pl-kos">,</span> <span class="pl-s"></span><span class="pl-kos"></span> <span class="pl-s">'Python'</span><span class="pl-kos">,</span> <span class="pl-s">'Typescript'</span><span class="pl-kos">,</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">Framework</span>: <span class="pl-kos">[</span><span class="pl-s">'React js'</span><span class="pl-kos">,</span> <span class="pl-s">'Django'</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">Databases</span>: <span class="pl-kos">[</span><span class="pl-s"></span><span class="pl-kos"></span> <span class="pl-s">"SQL"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
-  <span class="pl-c1">Tools</span>: <span class="pl-kos">[</span><span class="pl-s">'Vs code'</span><span class="pl-kos">,</span> <span class="pl-s">'Postman'</span><span class="pl-kos">,</span> <span class="pl-kos">,</span>
-  <span class="pl-v">Open</span> <span class="pl-c1">Source</span>: <span class="pl-kos">[</span><span class="pl-s">'Git, GitHub'</span><span class="pl-kos">]</span>
-<span class="pl-kos">}</span></pre>
-</div>
+## 🚀 About Me
 
+Innovative tech-driven developer with **3+ years of experience** building scalable, production-ready web applications.  
+Strong in **Frontend architecture** with hands-on **Full-Stack experience** using Django & REST APIs.  
+I enjoy solving real-world problems, collaborating with teams, and shipping clean, performant code.
 
- 
- #### Things I code with
- 
- 
+- 🔭 Currently working with **React, Next.js & Django**
+- 🌱 Learning **Advanced Django & System Design**
+- 💬 Ask me about **JavaScript, React, Redux, Next.js, Django**
+- ⚡ Fun fact: I love reading books & chilling with friends 😄
 
-[![Python Badge](https://img.shields.io/badge/Py-Python-blue)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 
-<img src="https://miro.medium.com/max/1290/0*s2ivt9cecdqsXvts.gif" alt=""/>
+---
 
+### 🧠 Backend & API
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django)
+![Django REST](https://img.shields.io/badge/Django_REST-000?style=for-the-badge&logo=django)
+
+---
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Full-Stack Web Application
+- **Tech:** React, Django, Django REST Framework
+- **Features:** Authentication, Role-based access, API integration
+- **Focus:** Clean UI, scalable backend, production-ready architecture
+
+### 🔹 Modern Frontend Dashboard
+- **Tech:** Next.js, Redux, Tailwind CSS
+- **Features:** SSR, optimized rendering, reusable components
+- **Focus:** Performance & UX
+
+### 🔹 Academic / Management System
+- **Tech:** Django, MySQL
+- **Features:** Complex relational models, validations, admin panel
+- **Focus:** Real-world business logic
+
+👉 *More projects available on my repositories.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atik1000&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atik1000&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 Portfolio: *(Add when ready)*
+- 🐙 GitHub: https://github.com/Atik1000
+- 📧 Email: atik2000.foysal@gmail.com
+- 📍 Location: Bangladesh (Remote / WFH friendly)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
