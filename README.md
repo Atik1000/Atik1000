@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Innovative tech-driven developer with **3+ years of experience** building scalable, production-ready web applications.  
+Innovative tech-driven developer with **4+ years of experience** building scalable, production-ready web applications.  
 Strong in **Frontend architecture** with hands-on **Full-Stack experience** using Django & REST APIs.  
 I enjoy solving real-world problems, collaborating with teams, and shipping clean, performant code.
 
